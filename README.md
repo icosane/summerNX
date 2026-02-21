@@ -10,6 +10,9 @@ English translation patch for Nintendo Switch homebrew port of `Amanatsu ~Perfec
 
 There is a minor issue with the Settings background, due to layout differences between the EN PC version and the JP PC version (homebrew base).
 
+#
+I'm not exactly sure about LFS patching, so the old file included only translations, omitting other files in the original `root.pfs.050`. Current patch should now be consistent with the original file.
+
 # Thanks to
 - [pfs-rs](https://github.com/sakarie9/pfs-rs)
 - [zxc944464161](https://www.tekqart.com/thread-372733-1-1.html)
