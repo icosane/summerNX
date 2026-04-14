@@ -24,7 +24,8 @@ I'm not exactly sure about LFS patching, so the old file included only translati
 3. Play game
 
 From the port author (translated from Chinese): 
->There are some issues with the game's shader settings. When the character's face is close to the background and zoomed in, the background only shows black due to the shader issue. The engine on the NS uses OpenGL. The game defaults to Direct3D, but OpenGL can be used in the main game. I've been working on the epilogue for a long time but haven't gotten it working properly yet. This is the best I can do for now; I'll work on finding the problems later.
+>The game text has been replaced with PingFang and enlarged to avoid eye strain.
+><br>There are some issues with the game's shader settings. When the character's face is close to the background and zoomed in, the background only shows black due to the shader issue. The engine on the NS uses OpenGL. The game defaults to Direct3D, but OpenGL can be used in the main game. I've been working on the epilogue for a long time but haven't gotten it working properly yet. This is the best I can do for now; I'll work on finding the problems later.
 
 # Thanks to
 - [pfs-rs](https://github.com/sakarie9/pfs-rs)
