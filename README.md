@@ -31,3 +31,4 @@ From the port author (translated from Chinese):
 - [pfs-rs](https://github.com/sakarie9/pfs-rs)
 - [zxc944464161](https://www.tekqart.com/thread-372733-1-1.html)
 - [chatgpt4o汉化补丁](https://www.tekqart.com/thread-395846-1-1.html)
+- Kamome
